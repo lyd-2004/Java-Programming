@@ -3,13 +3,12 @@ public class Driving {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the driving distance:");
-        double drivingDistance=sc.nextDouble();
+        double distance=sc.nextDouble();
         System.out.println("Enter miles per gallon:");
-        double milesPerGallon = sc.nextDouble();
+        double MILES_PER_GALLON=sc.nextDouble();
         System.out.println("Enter price per gallon:");
-        double pricePerGallon = sc.nextDouble();
-        double cost = drivingDistance / milesPerGallon * pricePerGallon;
-        System.out.print("The cost of driving is $");
-        System.out.printf("%.2f", cost);
+        double PRICE_PER_GALLON=sc.nextDouble();
+        double cost=distance/MILES_PER_GALLON*PRICE_PER_GALLON;
+        System.out.print("The cost of driving is $"+cost);
     }
 }
