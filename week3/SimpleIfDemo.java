@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Example_3_2 {
+public class SimpleIfDemo {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.print("Enter an integer: ");
