@@ -1,4 +1,4 @@
-public class NamedConstants {
+public class MilesToKilometer {
     public static void main(String[] args) {
         double mile=100;
         final double KILOMETERS_PER_MILE=1.609;
