@@ -9,6 +9,6 @@ public class Driving {
         System.out.println("Enter price per gallon:");
         double PRICE_PER_GALLON=sc.nextDouble();
         double cost=distance/MILES_PER_GALLON*PRICE_PER_GALLON;
-        System.out.print("The cost of driving is $"+cost);
+        System.out.println("The cost of driving is $"+cost);
     }
 }
