@@ -8,6 +8,5 @@ public class Financial_Calculate {
         double gratuity=subtotal*gratuity_rate/100;
         double total=subtotal+gratuity;
         System.out.println("The gratuity is $"+gratuity+" and total is $"+total);
-
     }
 }
