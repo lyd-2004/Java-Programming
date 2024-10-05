@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Example_2_5 {
+public class ReadingFromKeyboard {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.print("Enter a Byte value: ");
