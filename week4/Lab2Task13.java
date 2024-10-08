@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pay {
+public class Lab2Task13 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter your pay: ");
