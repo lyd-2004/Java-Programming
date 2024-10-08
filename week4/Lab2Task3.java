@@ -1,4 +1,4 @@
-public class Day {
+public class Lab2Task3 {
     public static void main(String[] args) {
         String[] arr={"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
         int index=1;
