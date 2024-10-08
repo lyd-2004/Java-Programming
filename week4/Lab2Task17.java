@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class Price {
+public class Lab2Task17 {
     public static void main(String[] args) {
         Random sc=new Random();
         int price_number=sc.Random(100);
