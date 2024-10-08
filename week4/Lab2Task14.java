@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BMI2 {
+public class Lab2Task14 {
     public static void main(String[] args) {
         double KILLOGRAMS_PER_POUND=0.45359237;
         double METER_PER_INCH=0.0254;
