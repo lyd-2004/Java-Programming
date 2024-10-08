@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Determining_Leap_Year {
+public class Lab2Task16 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a year: ");
