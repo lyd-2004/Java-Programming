@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DisplayTime {
+public class Lab2Task2 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int seconds=sc.nextInt();
