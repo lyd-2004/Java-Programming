@@ -1,4 +1,4 @@
-public class Financial_Compound {
+public class Lab2Task9 {
     public static void main(String[] args) {
         String[] arr={"first","second","third","fourth","fifth","sixth","seventh","eighth","ninth","tenth","eleventh","twelfth"};
         double saving=100.0;
