@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AdditionQuiz {
+public class Lab2Task19 {
     public static void main(String[] args) {
         int number1=(int)(System.currentTimeMillis()%10);
         int number2=(int)(System.currentTimeMillis()/10%10);
