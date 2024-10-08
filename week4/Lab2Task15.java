@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Divisible {
+public class Lab2Task15 {
         public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
             System.out.println("Enter a integer: ");
