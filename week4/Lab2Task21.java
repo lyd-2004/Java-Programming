@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Weekday_or_Weekend {
+public class Lab2Task21 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the day number: ");
