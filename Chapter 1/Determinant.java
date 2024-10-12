@@ -1,4 +1,4 @@
-public class App {
+public class Determinant {
   public static void main(String[] args) {
     final double A,B,C,D,E,F;
     A=3.4;B=50.2;C=2.1;
