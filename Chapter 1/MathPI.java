@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class MathPI {
   public static void main(String[] args) {
     System.out.println("Please enter the radius of the circle");
     Scanner input=new Scanner(System.in);
