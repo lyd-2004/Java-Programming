@@ -1,4 +1,4 @@
-public class App {
+public class remainPopulation {
   public static void main(String[] args) {
     int sum=312032486;
     double birth=1.0/7,dead=1.0/13,move=1.0/45;
