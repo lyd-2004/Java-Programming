@@ -1,4 +1,4 @@
-public class App {
+public class Calculate2 {
   public static void main(String[] args) {
     double sum=0,n=1;
     for(int i=1;i<=11;i+=2) {
