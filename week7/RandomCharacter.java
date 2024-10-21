@@ -1,4 +1,4 @@
-public class RandomLetter {
+public class RandomCharacter {
     public static void main(String[] args) {
         char CH1=getRandomUpperCaseLetter();
         char CH2=getRandomUpperCaseLetter();
