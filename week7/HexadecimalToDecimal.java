@@ -15,7 +15,7 @@ public class HexadecimalToDecimal {
         int number;
         int dec=0;
         for(int i=0;i<string.length();i++) {
-            if(0<=string.charAt(i) && string.charAt(i)<=9) {
+            if('0'<=string.charAt(i) && string.charAt(i)<='9') {
                 number=(int)(string.charAt(i))-48;
             }else if('A'<=string.charAt(i) && string.charAt(i)<='F') {
                 number=(int)(string.charAt(i))-55; 
